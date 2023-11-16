@@ -12,7 +12,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>[Hi, I am Ka. A dedicated problem solver with the ability to strategize and improvise in difficult situations. Humble and open to input, establishing a collaborative workplace by valuing different points of view. Approach assignments with persistent optimism and dedication, regularly delivering outcomes even under duress, and being a team-oriented individual who fosters togetherness, celebrates accomplishments, and positively adds to group dynamics
+]</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
